@@ -1,7 +1,7 @@
 # Things to do in kali linux after installing
 
 ## 1.Update and Upgrade
-sudo apt update
+sudo apt update                                                                                   
 sudo apt dist-upgrade -y
 ______________________________________________________________________________________________________________________________________________________________________
 
